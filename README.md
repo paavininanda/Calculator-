@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 This is a simple calculator implemented using JavaScript. 
 
