@@ -77,7 +77,7 @@ function calc() {
             ans = num1 % num2;
         }
         else if(op=='^') {
-            ans = num1 ^ num2;
+            ans = Math.pow(num1, num2);
         }
         else if(op=='/') {
             ans = num1 / num2;
