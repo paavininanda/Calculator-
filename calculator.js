@@ -87,9 +87,7 @@ function calc() {
         }
 
     }
-
-
-    textt=ans;
+	textt=ans.toString();
     screenDisp();
 };
 
